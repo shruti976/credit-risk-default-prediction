@@ -1,0 +1,18 @@
+{
+  "LogisticRegression": {
+    "ROC_AUC": 0.7084,
+    "PR_AUC": 0.4908,
+    "Brier": 0.2089,
+    "F1@0.5": 0.4612,
+    "Recall@0.5": 0.6202,
+    "Precision@0.5": 0.3671
+  },
+  "XGBoost": {
+    "ROC_AUC": 0.7754,
+    "PR_AUC": 0.5522,
+    "Brier": 0.1776,
+    "F1@0.5": 0.5323,
+    "Recall@0.5": 0.6179,
+    "Precision@0.5": 0.4675
+  }
+}
